@@ -1,8 +1,5 @@
-import java.util.Scanner;
-
 public class Soal01Dan03 {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
         int i;
         int total = 0;
 
